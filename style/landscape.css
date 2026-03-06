@@ -1,0 +1,18 @@
+#navbar h1 {
+    float: left;
+}
+
+#navbar ul {
+    float: right;
+}
+
+#navbar ul li {
+    float: left;
+    margin: 0;
+}
+
+#navbar ul li a {
+    border: none;
+    padding: 20px 15px;
+}
+

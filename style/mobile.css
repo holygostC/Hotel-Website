@@ -1,0 +1,102 @@
+
+/* navbar */
+#navbar h1 {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li {
+    margin: 1rem 0;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border: 1px dotted #444;
+}
+
+/* Showcase */
+#showcase {
+    height: 70vh;
+}
+#showcase #showcase-content h1 {
+    font-size: 2rem;
+    margin-bottom: 0.4rem;
+}
+
+#showcase #showcase-content p {
+    margin-bottom: 20px;
+    line-height: 1.4em;
+    font-size: 1.1rem;
+}
+
+
+/* home-info */
+
+#img-info {
+    display: none;
+}
+
+#info-content {
+    float: none;
+    width: 100%;
+    padding-top:50px 20px ;
+}
+
+#info-content h2 {
+    font-size: 1.2rem;
+}
+
+#info-content p {
+    font-size: 0.9rem;
+}
+
+#info-content .btn {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+
+/* feature */
+
+#feature {
+    flex-direction: column;
+}
+#feature .box {
+    float: none;
+    width: 100%;
+}
+
+/* About Section */
+
+#about-img {
+ display: none;
+}
+
+#about-content h1 {
+   font-size: 1.4rem;
+}
+
+
+#about-content p {
+    font-size: 0.9rem;
+}
+
+/* testimonies */
+
+#testimonies-content h2 {
+    font-size: 1.5rem;
+}
+
+#testimonies-content .testimony p {
+    font-size: 0.9rem;
+}
+
+/* contact-info */
+
+#contact-info #contact-content {
+    flex-direction: column;
+}
